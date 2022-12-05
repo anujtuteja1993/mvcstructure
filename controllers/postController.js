@@ -1,5 +1,6 @@
 "use strict";
 
+//
 var Models = require("../models");
 
 const getPost = (res) => {
